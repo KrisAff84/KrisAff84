@@ -7,8 +7,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kristoffer_Afflerbaugh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/kris-afflerbaugh/))](https://www.linkedin.com/in/kris-afflerbaugh/))
-[![Medium Badge](https://img.shields.io/badge/<ENTER YOUR NAME>-12100E?style=flat-square&logo=medium&logoColor=white&link=[<ENTER YOUR MEDIUM URL>](https://medium.com/@krisaff))]([<ENTER YOUR MEDIUM URL>](https://medium.com/@krisaff))
+[![Linkedin Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kris-afflerbaugh/)](https://www.linkedin.com/in/kris-afflerbaugh/)
+[![Medium Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@krisaff)](https://www.medium.com/@krisaff/)
 [![Gmail Badge](https://img.shields.io/badge/-krisaff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krisaff@gmail.com)](mailto:krisaff@gmail.com)
 
 ## ⚡ Technologies
