@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Kris Afflerbaugh. I'm currently transitioning to DevOps from a lifelong career in music. At the moment I'm learning all about AWS and Python. Interested in all things DevOps related, cloud engineering, Infrastructure as code, Terraform, etc. 
+My name is Kris Afflerbaugh. I'm currently transitioning to DevOps from a lifelong career in music. Interested in all things DevOps related, cloud engineering, Infrastructure as code, Terraform, Python, Docker, etc. 
 
 Find out more about me & feel free to connect with me here:
 
