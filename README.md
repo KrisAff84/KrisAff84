@@ -36,6 +36,7 @@ Find out more about me & feel free to connect with me here:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KrisAff84&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAff84&hide=TeX&layout=compact)
+![Gists](https://gists-readme.yizack.com/api?user=KrisAff84)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=KrisAff84%2FKrisAff84&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=KrisAff84%2FKrisAff84)
