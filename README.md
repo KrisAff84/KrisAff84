@@ -7,24 +7,30 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kris-afflerbaugh/)](https://www.linkedin.com/in/kris-afflerbaugh/)
-[![Medium Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@krisaff)](https://www.medium.com/@krisaff/)
-[![Gmail Badge](https://img.shields.io/badge/-krisaff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krisaff@gmail.com)](mailto:krisaff@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kris-afflerbaugh/)](https://www.linkedin.com/in/kris-afflerbaugh/)
+[![Medium Badge](https://img.shields.io/badge/Kristoffer_Afflerbaugh-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/@krisaff)](https://www.medium.com/@krisaff/)
+[![Gmail Badge](https://img.shields.io/badge/-krisaff@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:krisaff@gmail.com)](mailto:krisaff@gmail.com)
 
 ## ⚡ Technologies
 
 <!-- Check out the Badges folder for more badges -->
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
